@@ -14,7 +14,7 @@
     /* font-family: 'Montserrat', sans-serif; */
   }
   body{
-    background-image: url('/backgroundimg.jpeg');
+    background-image: url('backgroundimg.jpeg');
         /* background-image: url('/pexels-photo-1643113.jpeg'); */
     background-repeat: no-repeat;}
   .title{

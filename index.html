@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apply For Job</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="animation.css">
+    <link rel="html" href="/last.html">
+</head>
+<body onload="myFunction()">
+    <div id="loader"></div>
+    <div class="applform">
+        <div class="title">
+            <h2><u>Application Form</h2></u>
+        </div>
+        <form action="/last.html" class="formm">
+            <div class="name">
+                <label for="firstname">First Name :</label>
+                <input type="text" name="" id="firstname">
+                <label for="surname">Surname :</label>
+                <input type="text" name="" id="surname">
+            </div>
+            <div class="inputarea">
+                <label for="email">Email Id :</label>
+                <input type="email" name="" id="email" class="inputtext">
+
+            </div>
+            <div class="inputarea">
+                <label for="mob">Mob No :</label>
+                <input type="tel" name="" id="mob" class="inputtext">
+
+            </div>
+            <div class="inputarea">
+                <label for="DOB">DOB:</label>
+                <input type="date" name="" id="DOB" class="inputtext">
+
+            </div>
+            <div class="selector">
+              <label for="gender">Gender :</label>
+                <select id="gender" >
+                  <option value="">Select</option>
+                  <option value="male">Male</option>
+                  <option value="female">Female</option>
+                  <option value="other">Other</option>
+                </select>
+            </div>
+            <div class="inputarea">
+                <label for="address">Address :</label>
+                <textarea name="" id="address" class="textarea" ></textarea>
+            </div>
+            <div class="selector">
+               <label for="state"> State :</label>
+               <select name="" id="state">
+               <option value="Bihar">Bihar</option>
+               <option value="Delhi">Delhi</option>
+               <option value="Haryana">Haryana</option>
+               <option value="Jammu & Kashmir">Jammu & Kashmir</option>
+               <option value="Maharashtra">Maharashtra</option>
+               <option value="Uttar Pradesh">Uttar Pradesh</option>
+               <option value="Punjab">Punjab</option>
+               <option value="Other">Other</option>
+            </select>
+            </div>
+            <div class="inputarea">
+                <label for="district">District :</label>
+             <input type="text" id="district" class="inputtext">
+            </div>
+            <div class="inputarea">
+                <label for="pincode">Pincode :</label>
+             <input type="number" id="pincode" class="inputtext">
+            </div>
+            <div class="inputarea">
+                <label for="qualification"> Qualification :</label>
+             <input type="text" id="qualification" class="inputtext">
+            </div>
+            <div class="inputarea">
+                <label for="about">About Yourself :</label>
+                <textarea name="" id="about" class="textarea" ></textarea>
+            </div>
+            <div class="inputarea">
+                <label for="reason">Why should we hire you ? </label>
+                <textarea name="" id="reason" class="textarea"  ></textarea>
+            </div>
+            <div class="inputarea buttn">
+                <input type="submit" value="Submit" class="button">
+            </div>
+
+        </form>
+    </div> 
+    <script>
+        var preloader = document.getElementById('loader');
+        function myFunction(){
+            preloader.style.display='none';
+        }
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

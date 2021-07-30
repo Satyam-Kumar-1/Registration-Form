@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+*{font-size: 15px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Baskerville', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-image: url('/backgroundimg.jpeg'); */
+    
+    
+    /* font-family: 'Montserrat', sans-serif; */
+  }
+  body{
+    background-image: url('/backgroundimg.jpeg');
+        /* background-image: url('/pexels-photo-1643113.jpeg'); */
+    background-repeat: no-repeat;}
+  .title{
+     margin-bottom: 26px;
+     font-size: 30px;
+     padding: auto;
+  }
+  h2 u{
+      font-size: 42px;
+      /* padding-bottom: 5px; */
+  }
+
+.applform{
+    background-color:#c6aaea;
+    opacity: 0.8;
+    
+    border-radius: 18px;
+    /* border: blue solid 3px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px;
+    width: 100%;
+    margin: 70px auto;
+    padding: 10px;
+}
+.inputarea{
+     margin-bottom: 15px;
+     margin-top: 15px;
+  
+    display: flex;
+    align-items: center; 
+}
+/* input{
+    width: 300px;
+} */
+label{
+    width: 150px;
+   font-weight: bold;
+    color: #0f0909e8;
+    margin-right:0px;
+   font-size: 15px;
+   padding: 2px;
+}
+#state{
+    border: black solid 2px;
+    border-radius: 10px;
+    width: 225px;
+    height: 26px;
+    margin-left: 145px;
+}
+#gender{
+    border: black solid 2px;
+    border-radius: 10px;
+    width: 225px;
+    height: 26px;
+    margin-left: 126px;
+}
+.inputtext{
+    /* font-size: 20px; */
+    border: black solid 2px;
+    border-radius: 10px;
+    width: 325px;
+    height: 28px;
+}
+#firstname{
+    border: black solid 2px;
+    border-radius: 10px;
+    width: 116px;
+    height: 28px;
+    margin-right: 3px;
+    margin-left: 43px;
+    padding-top: 5px;
+}
+#surname{
+    border: black solid 2px;
+    border-radius: 10px;
+    height: 28px;
+    width: 113px;
+    margin-left: 0px;
+    padding-top: 5px;
+}
+#reason{
+    height: 90px;
+}
+#address{
+    height: 55px;
+}
+#about{
+    height: 84px;
+}
+.textarea{
+    border: black solid 2px;
+    border-radius: 9px;
+   width: 325px;
+resize: none;
+    
+} 
+.button{
+    color: white;
+    background-color: rgb(120, 119, 119);
+    border: black solid 2px;
+    font-size: 20px;
+    font-weight: bold;
+    height: 38px;
+    margin: auto;
+    width: 150px;
+    border-radius: 25px;
+}
+.buttn{
+    margin-top: 25px;
+    /* width: 500px; */
+    /* margin-left: 200px; */
+}
+.button:hover{
+    color: blue;
+    background-color: rgb(231, 14, 141);
+}

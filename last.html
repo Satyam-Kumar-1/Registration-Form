@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="html" href="form.html">
+    <link rel="stylesheet" href="/animation.css">
+    <style>
+        *{background-color: #F9D3E9;}
+    </style>
+</head>
+<body onload="myFunction()">
+   
+    <div id="loader"></div>
+    <div class="container">
+    <div class="conttext">
+       <p class="para1">
+           Thanks for your interest.
+       </p>
+       <p>
+           Our Hiring Team will contact you soon.
+       </p>
+   </div>
+   <form action="/form.html">
+   <input type="submit" value="Submit Another Entry" class="button1">
+</form>
+</div>
+<script>
+    var preloader = document.getElementById('loader');
+    function myFunction(){
+        preloader.style.display='none';
+    }
+</script>
+</body>
+</html>

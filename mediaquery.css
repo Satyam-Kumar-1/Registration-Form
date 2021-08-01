@@ -353,8 +353,8 @@ html{
          }
        
        .applform{
-           background-color:#c6aaea;
-           opacity: 0.8;
+          /* background-color:#c6aaea;
+           opacity: 0.8;*/
            
            border-radius: 1.8rem;
            /* border: blue solid 3px; */
@@ -479,8 +479,8 @@ html{
       }
     
     .applform{
-        background-color:#c6aaea;
-        opacity: 0.8;
+      /*  background-color:#c6aaea;
+        opacity: 0.8;*/
         
         border-radius: 1.8rem;
         /* border: blue solid 3px; */
@@ -632,8 +632,8 @@ html{
   }
 
 .applform{
-    background-color:#c6aaea;
-    opacity: 0.8;
+   /* background-color:#c6aaea;
+    opacity: 0.8;*/
     
     border-radius: 1.8rem;
     /* border: blue solid 3px; */
@@ -778,8 +778,8 @@ html{
   }
 
 .applform{
-    background-color:#c6aaea;
-    opacity: 0.8;
+   /* background-color:#c6aaea;
+    opacity: 0.8; */
     
     border-radius: 1.8rem;
     /* border: blue solid 3px; */

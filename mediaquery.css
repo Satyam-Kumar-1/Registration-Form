@@ -142,8 +142,10 @@ html{
          }
        
        .applform{
-           background-color:#c6aaea;
-           opacity: 0.8;
+           /* background-color:#c6aaea;
+           opacity: 0.8; */
+           background-image: url('pastels-background-image-wallpaper-or-texture-free-for-any-web-page-nice-colour-backgroun-d-for-a-webpage-1024x819.jpg');
+           opacity: 0.9;
            
            border-radius: 1.8rem;
            /* border: blue solid 3px; */
@@ -248,8 +250,10 @@ html{
          }
        
        .applform{
-           background-color:#c6aaea;
-           opacity: 0.8;
+           /* background-color:#c6aaea;
+           opacity: 0.8; */
+           background-image: url('pastels-background-image-wallpaper-or-texture-free-for-any-web-page-nice-colour-backgroun-d-for-a-webpage-1024x819.jpg');
+           opacity: 0.9;
            
            border-radius: 1.8rem;
            /* border: blue solid 3px; */
@@ -353,8 +357,9 @@ html{
          }
        
        .applform{
-           background-color:#c6aaea;
-           opacity: 0.8;
+           /* background-color:#c6aaea; */
+           background-image: url('pastels-background-image-wallpaper-or-texture-free-for-any-web-page-nice-colour-backgroun-d-for-a-webpage-1024x819.jpg');
+           opacity: 0.9;
            
            border-radius: 1.8rem;
            /* border: blue solid 3px; */
@@ -479,9 +484,11 @@ html{
       }
     
     .applform{
-        background-color:#c6aaea;
+        /* background-color:#c6aaea;
         opacity: 0.8;
-        
+         */
+         background-image: url('pastels-background-image-wallpaper-or-texture-free-for-any-web-page-nice-colour-backgroun-d-for-a-webpage-1024x819.jpg');
+           opacity: 0.9;
         border-radius: 1.8rem;
         /* border: blue solid 3px; */
         display: flex;
@@ -632,8 +639,10 @@ html{
   }
 
 .applform{
-    background-color:#c6aaea;
-    opacity: 0.8;
+    /* background-color:#c6aaea;
+    opacity: 0.8; */
+    background-image: url('pastels-background-image-wallpaper-or-texture-free-for-any-web-page-nice-colour-backgroun-d-for-a-webpage-1024x819.jpg');
+           opacity: 0.9;
     
     border-radius: 1.8rem;
     /* border: blue solid 3px; */
@@ -778,9 +787,10 @@ html{
   }
 
 .applform{
-    background-color:#c6aaea;
-    opacity: 0.8;
-    
+    /* background-color:#c6aaea;
+    opacity: 0.8; */
+    background-image: url('pastels-background-image-wallpaper-or-texture-free-for-any-web-page-nice-colour-backgroun-d-for-a-webpage-1024x819.jpg');
+           opacity: 0.9;
     border-radius: 1.8rem;
     /* border: blue solid 3px; */
     display: flex;
